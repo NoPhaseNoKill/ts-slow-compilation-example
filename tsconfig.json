@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "extendedDiagnostics": true,
     "target": "es5",
     "lib": [
       "dom",
